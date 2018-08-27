@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Clientes>
+  <Cliente>
+    <ID>1</ID>
+    <Nome>Guilherme</Nome>
+    <Idade>20</Idade>
+    <Telefone>(41)99915-1123</Telefone>
+  </Cliente>
+  <Cliente>
+    <ID>2</ID>
+    <Nome>Maria de Lurdez</Nome>
+    <Idade>60</Idade>
+    <Telefone>(41)99922-5522</Telefone>
+  </Cliente>
+  <Cliente>
+    <ID>3</ID>
+    <Nome>Leonardo Silva</Nome>
+    <Idade>17</Idade>
+    <Telefone>(47)99875-3018</Telefone>
+  </Cliente>
+  <Cliente>
+    <ID>4</ID>
+    <Nome>luis maciel</Nome>
+    <Idade>59</Idade>
+    <Telefone>41 954687125</Telefone>
+  </Cliente>
+</Clientes>
